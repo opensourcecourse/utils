@@ -1,0 +1,5 @@
+# packages needed for OSC assignments
+pytest
+numpy
+pandas
+pydantic
